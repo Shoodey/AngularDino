@@ -1,0 +1,27 @@
+{
+  "name": "angulardino",
+  "version": "1.0.0",
+  "description": "Chrome's Dino game using AngularJS 1.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoodey/AngularDino.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Chrome",
+    "Dino"
+  ],
+  "author": "Shoodey <shoodey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shoodey/AngularDino/issues"
+  },
+  "homepage": "https://github.com/Shoodey/AngularDino#readme",
+  "devDependencies": {
+    "angular": "^1.4.6"
+  }
+}
