@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shoodey/AngularDino.git"
+    "url": "git@github.com:Shoodey/AngularDino.git"
   },
   "keywords": [
     "AngularJS",
